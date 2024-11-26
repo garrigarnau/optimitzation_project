@@ -1,7 +1,3 @@
-Aquí tens un exemple de README complet per al teu projecte que pots adaptar per penjar al GitHub:
-
----
-
 # **Optimització d'Entrenament de Xarxes Neuronals amb MNIST**
 
 Aquest projecte té com a objectiu investigar i comparar l'entrenament bàsic i distribuït de models de xarxes neuronals convolucionals (`SimpleConvNet`) utilitzant el dataset MNIST, que conté imatges de dígits escrits a mà. Inclou implementacions per entrenar un model en mode bàsic i distribuït, amb mètriques per analitzar el rendiment, la pèrdua i la precisió.
