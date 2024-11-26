@@ -121,7 +121,7 @@ Les contribucions són benvingudes! Si tens suggeriments o millores, segueix aqu
 ---
 
 ## **Llicència**
-Aquest projecte està disponible sota la llicència MIT. Consulta el fitxer `LICENSE` per a més informació.
+Aquest projecte està disponible sota la llicència MIT. Consulta el fitxer [MIT License](LICENSE) per a més informació.
 
 ---
 
